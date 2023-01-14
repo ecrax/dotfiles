@@ -1,0 +1,12 @@
+theme = "fleet_dark_transparent"
+#theme = "fleet_dark"
+#theme = "base16_transparent"
+
+[editor]
+true-color = true
+
+[editor.cursor-shape]
+insert = "bar"
+
+[editor.lsp]
+display-messages = true
