@@ -11,7 +11,7 @@ window {
     padding-left: 20px;
     color: #fff;
     font-weight: bold;
-    background-color: rgba(0,0,0,0.2);
+    background-color: rgba(0,0,0,0.4);
     /*background: linear-gradient(90deg, rgba(203,166,247,1) 0%, rgba(245,194,231,1) 100%);
    	outline: none;*/
     /* background: linear-gradient(60deg,  #47A5FF 30% ,#4dd6bb  90%); */
@@ -29,7 +29,7 @@ window {
     padding: 10px;
     color: #aecfff;
     font-weight: bold;
-    background-color: rgba(0,0,0,0.4);
+    background-color: rgba(0,0,0,0.6);
     border-radius: 15px;
 }
 
@@ -38,7 +38,7 @@ window {
     border: none;
     padding: 0 5px;
     border-radius: 15px;
-    background-color: rgba(0,0,0,0.2);
+    background-color: rgba(0,0,0,0.4);
 }
 
 #scroll {
@@ -50,10 +50,12 @@ window {
 }
 #text {
 	color: #aecfff;
+  color: white;
 	padding-left : 12px;
 }
 #text:selected {
     color: #000;
+    color: white;
     margin: 0px 0px;
     margin-left: 3px;
     border: none;
@@ -61,7 +63,7 @@ window {
 }
 
 #entry {
-    color:black;
+    color: black;
     margin: 0px 0px;
     border: none;
     border-radius: 8px;
@@ -72,10 +74,11 @@ window {
     transition-duration:0.3s;
     margin: 0px 0px;
     padding: 10px 0px;
-    padding-left: 60px;
+    padding-left: 10px;
     /*border-left: 2px solid #f5c2e7;
     border-right:2px solid #f5c2e7;*/
     
-    background: linear-gradient(60deg,  #4dd6bb 30% ,#47A5FF   90%);
+    /*background: linear-gradient(60deg,  #4dd6bb 30% ,#47A5FF   90%);*/
     /*background: linear-gradient(45deg, rgba(203,166,247,1) 30%, rgba(245,194,231,1) 100%);*/
-    }
+    background: rgba(200,200,200, 0.2);
+}
