@@ -1,10 +1,10 @@
 {
   "layer": "top",
   "position": "top",
-  /*"mode": "dock",*/
-  "height": 0,
+  //"mode": "dock",
+  //"height": 0,
   "modules-left": [
-    "wlr/workspaces",
+    "hyprland/workspaces",
     "custom/player"
   ],
   "modules-center": [
@@ -21,11 +21,11 @@
     "pulseaudio",
     "battery"
   ],
-  "wlr/workspaces": {
+  "hyprland/workspaces": {
     "disable-scroll": true,
     "all-outputs": true,
     "on-click": "activate",
-    "format": "{icon}",
+    //"format": "{icon}",
     // "format-icons": {
     //   "1": "🌐",
     //   // "2": "",
