@@ -111,3 +111,9 @@ export PATH="$PNPM_HOME:$PATH"
 
 # Go Binaries
 export PATH="$HOME/go/bin:$PATH"
+
+# cargo install
+export PATH="$HOME/.cargo/bin:$PATH"
+
+#pip install
+export PATH="$HOME/.local/bin/:$PATH"
