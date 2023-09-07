@@ -24,6 +24,7 @@ Optional Font:
 - [Iosevka Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.2.2/Iosevka.zip)
 - [NotoColorEmoji](https://github.com/googlefonts/noto-emoji/raw/main/fonts/NotoColorEmoji.ttf)
 - [Codicon](https://github.com/microsoft/vscode-codicons/raw/main/dist/codicon.ttf)
+- [Satoshi](https://api.fontshare.com/v2/fonts/download/satoshi)
 
 Once you download them and unpack them, place them into ~/.fonts or ~/.local/share/fonts.
 
